@@ -8,7 +8,7 @@ I'm a Computer Programming graduate from Durham College, passionate about explor
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [samozal26@gmail.com](mailto:samozal26@gmail.com)
-* 🚀  I'm currently working on [an audit app](http://github.com/louissamoza/audit-app)
+* 🚀  I'm currently working on an [audit app](http://github.com/louissamoza/audit-app)
 * 🧠  I'm currently learning ReactJS and NextJS
 * 🤝  I'm open to collaborating on web development projects
 
