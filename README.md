@@ -4,7 +4,7 @@ Hi 👋 My name is Louis Samoza
 Aspiring Web Developer | Exploring Data Analysis
 ------------------------------------------------
 
-I'm an upcoming Computer Programming graduate from Durham College, passionate about exploring new technologies and continuously improving my programming skills.
+I'm a Computer Programming graduate from Durham College, passionate about exploring new technologies and continuously improving my programming skills.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [samozal26@gmail.com](mailto:samozal26@gmail.com)
