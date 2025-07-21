@@ -1,4 +1,4 @@
-Hi 👋 My name is Louis Samoza
+Hi, my name is Louis Samoza
 =============================
 
 Aspiring Web Developer | Exploring Data Analysis
@@ -6,11 +6,11 @@ Aspiring Web Developer | Exploring Data Analysis
 
 I'm a Computer Programming graduate from Durham College, passionate about exploring new technologies and continuously improving my programming skills.
 
-* 🌍  I'm based in Canada
-* ✉️  You can contact me at [samozal26@gmail.com](mailto:samozal26@gmail.com)
-* 🚀  I'm currently working on an [audit app](http://github.com/louissamoza/audit-app)
-* 🧠  I'm currently learning ReactJS and NextJS
-* 🤝  I'm open to collaborating on web development projects
+* I'm based in Canada
+* You can contact me at [samozal26@gmail.com](mailto:samozal26@gmail.com)
+* I'm currently working on an [audit app](http://github.com/louissamoza/audit-app)
+* I'm currently learning ReactJS and NextJS
+* I'm open to collaborating on web development projects
 
 ### Skills
 
